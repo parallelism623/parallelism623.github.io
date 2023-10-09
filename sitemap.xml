@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Aboutme.org/</loc>
+    <loc>https://Aboutme.org/posts/first-blog/</loc>
     <lastmod>2023-10-10T04:46:40+07:00</lastmod>
   </url><url>
-    <loc>https://Aboutme.org/posts/first-blog/</loc>
+    <loc>https://Aboutme.org/</loc>
     <lastmod>2023-10-10T04:46:40+07:00</lastmod>
   </url><url>
     <loc>https://Aboutme.org/posts/</loc>
     <lastmod>2023-10-10T04:46:40+07:00</lastmod>
+  </url><url>
+    <loc>https://Aboutme.org/posts/about-me/</loc>
   </url><url>
     <loc>https://Aboutme.org/categories/</loc>
   </url><url>
